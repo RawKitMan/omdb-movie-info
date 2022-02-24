@@ -3,13 +3,13 @@
 </template>
 
 <script>
-import MovieView from './components/MovieView.vue';
+import MovieView from "./components/MovieView.vue";
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    MovieView
-  }
-}
+    MovieView,
+  },
+};
 </script>
 
 <style>
